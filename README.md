@@ -36,3 +36,8 @@ https://nextjs.link/with-turbopack
 ## Providing Feedback
 
 https://nextjs.link/turbopack-feedback
+
+## Memo
+
+* SSR関連のエラーがある程度でる
+* Sentry関連のエラーが発生する
